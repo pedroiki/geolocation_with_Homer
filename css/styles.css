@@ -1,0 +1,29 @@
+
+
+header {
+text-align: center;
+}
+
+
+body {
+  background-color: pink;
+  font-family: fantasy;
+  font-size: 40px;
+}
+
+
+h1 {
+  font-weight: 80px;
+  color: red;
+  font-size: 80px;
+  font-family: fantasy;
+  }
+
+footer {
+
+  background-color: pink;
+  font-family: fantasy;
+  font-size: 10px;
+
+
+}
